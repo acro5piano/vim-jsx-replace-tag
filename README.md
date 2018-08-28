@@ -1,6 +1,6 @@
 # jsx-autoedit
 
-a Vim plugin to edit jsx tag automatically
+a Vim plugin to replace jsx tag with interactive UI.
 
 # Demo
 
@@ -20,3 +20,9 @@ In your `.vimrc`,
 ```vim
 nnoremap <Leader>rt :JSXReplaceTag<CR>
 ```
+
+# Thanks
+
+The code is ported from `vim-jsx-utils`. Really thank you!
+
+https://github.com/samuelsimoes/vim-jsx-utils
