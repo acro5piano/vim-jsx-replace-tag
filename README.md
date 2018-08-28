@@ -17,7 +17,7 @@ Plug 'acro5piano/jsx-autoedit'
 
 - Run `:JSXReplaceTag` where cursor is the same line of the tag to edit.
 - Input new tag name then press Return key
-- You can cancel editing with <ESC>
+- You can cancel editing with `<ESC>`
 
 # Example setting
 
