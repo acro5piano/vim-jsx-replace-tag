@@ -23,6 +23,6 @@ nnoremap <Leader>rt :JSXReplaceTag<CR>
 
 # Thanks
 
-The code is ported from `vim-jsx-utils`. Really thank you!
+A lot of code was ported from `vim-jsx-utils`. Really thanks!
 
 https://github.com/samuelsimoes/vim-jsx-utils
