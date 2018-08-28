@@ -13,6 +13,12 @@ a Vim plugin to replace jsx tag with interactive UI.
 Plug 'acro5piano/jsx-autoedit'
 ```
 
+# Usage
+
+- Run `:JSXReplaceTag` where cursor is the same line of the tag to edit.
+- Input new tag name then press Return key
+- You can cancel editing with <ESC>
+
 # Example setting
 
 In your `.vimrc`,
