@@ -12,3 +12,11 @@ a Vim plugin to edit jsx tag automatically
 ```
 Plug 'acro5piano/jsx-autoedit'
 ```
+
+# Example setting
+
+In your `.vimrc`,
+
+```vim
+nnoremap <Leader>rt :JSXReplaceTag<CR>
+```
