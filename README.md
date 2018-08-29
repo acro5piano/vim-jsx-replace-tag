@@ -1,4 +1,4 @@
-# jsx-autoedit
+# vim-jsx-replace-tag
 
 a Vim plugin to replace jsx tag with interactive UI.
 
@@ -10,7 +10,7 @@ a Vim plugin to replace jsx tag with interactive UI.
 # Install
 
 ```
-Plug 'acro5piano/jsx-autoedit'
+Plug 'acro5piano/vim-jsx-replace-tag'
 ```
 
 # Usage
